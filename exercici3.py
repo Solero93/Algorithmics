@@ -1,6 +1,5 @@
 ﻿# EXERCICI 3
 # Un programa per manipular variables de tipus string
-# Escrit per : Christian José Soler
 
 import string
 

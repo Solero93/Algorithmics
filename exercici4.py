@@ -1,6 +1,5 @@
 # ALGORÍSMICA, GRUP F
 # EXERCICI 4 : Un programa per aprendre a utilitzar coleccions
-# Escrit per : Christian José Soler
 
 import string
 import random

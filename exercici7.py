@@ -1,6 +1,5 @@
 # ALGORÍSMICA: Grupo F
 # Ejercicio 7: Dividir y vencer
-# Programa de Christian José Soler
 
 def negatius(llista):
 

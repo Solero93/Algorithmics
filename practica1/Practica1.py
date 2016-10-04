@@ -1,5 +1,5 @@
 ﻿# ALGORÍSMICA: Pràctica 1
-# Escrit per: Christian José Soler
+# Escrit per:  
 
 import math
 import cmath

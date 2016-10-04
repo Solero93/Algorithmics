@@ -1,5 +1,4 @@
 # Examen de algorísmica
-# Por Christian José Soler
 
 
 # Tengo el error de que el programa imprime al principio de todo, el valor del coseno directamente, y no encuentro el porqué

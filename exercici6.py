@@ -1,6 +1,5 @@
 # ALGORÍSMICA: Grupo F
 # Ejercicio 6: Algoritmo de Levenshtein en el ADN humano
-# Programa de Christian José Soler
 
 import time
 

@@ -1,5 +1,4 @@
 ﻿# Ejercicio 9: Búsqueda de los máximos de una función
-# Por Christian José Soler
 
 import math
 

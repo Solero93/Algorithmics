@@ -1,6 +1,5 @@
 # ALGORÍSMICA, GRUP F
 # EXERCICI 5 : Un programa per utilitzar els conceptes de Algorísmes Numérics
-# Escrit per : Christian José Soler
 
 import math
 import time
